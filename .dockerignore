@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+.git
+.claude
+*.log
+*.local
+.DS_Store
+.env
+.env.*
+.oxlintrc.json
+.gitignore
+# APK is large but included so Coolify can serve /downloads/HALK.apk
+# Uncomment the next line if you host the APK on a CDN instead:
+# public/downloads/*.apk

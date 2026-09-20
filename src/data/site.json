@@ -1,0 +1,215 @@
+{
+  "brand": {
+    "name": "HALK",
+    "fullName": "Household Finance Kernel",
+    "tagline": "Simple budgeting for everyday life",
+    "logo": "/brand/icon.png",
+    "packageId": "com.halk.financekernel",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "titleTemplate": "%s | HALK — Household Finance Kernel",
+    "defaultTitle": "HALK — Household Budgeting App, 100% On-Device & Encrypted",
+    "description": "HALK is a private, on-device household budgeting app. Track income, bills, savings and loans without your data ever leaving your phone. Download the Android app free.",
+    "keywords": [
+      "household budgeting app",
+      "personal finance app",
+      "on-device finance",
+      "private budgeting app",
+      "expense tracker",
+      "HALK app",
+      "budget planner Android"
+    ],
+    "siteUrl": "https://halk.mugavai.co",
+    "ogImage": "/brand/icon.png",
+    "twitterHandle": "@mugavai_co",
+    "locale": "en_IN",
+    "themeColor": "#0a0b12"
+  },
+  "geo": {
+    "region": "IN-TN",
+    "placename": "Chennai",
+    "position": "13.0827;80.2707",
+    "icbm": "13.0827, 80.2707",
+    "defaultCurrency": "₹",
+    "defaultCountry": "India"
+  },
+  "nav": [
+    { "label": "Features", "href": "#features" },
+    { "label": "How it works", "href": "#how-it-works" },
+    { "label": "Screens", "href": "#screens" },
+    { "label": "FAQ", "href": "#faq" }
+  ],
+  "hero": {
+    "eyebrow": "100% On-Device • Encrypted • No Bank Login Needed",
+    "titleLines": ["Budgeting that", "stays on your phone."],
+    "subtitle": "HALK helps households plan income, track bills, build savings and manage loans — without ever sending your financial data to a server.",
+    "primaryCta": { "label": "Download for Android", "icon": "download" },
+    "secondaryCta": {
+      "label": "See how it works",
+      "href": "#how-it-works",
+      "icon": "play"
+    },
+    "stats": [
+      { "value": "100%", "label": "On-device data" },
+      { "value": "0", "label": "Bank logins required" },
+      { "value": "1.0", "label": "Current version" },
+      { "value": "Free", "label": "To download" }
+    ],
+    "image": "/screens/dashboard.png"
+  },
+  "trust": [
+    "No ads",
+    "No data selling",
+    "No cloud sync required",
+    "Offline-first",
+    "Biometric lock",
+    "Open export"
+  ],
+  "features": [
+    {
+      "icon": "shield-check",
+      "title": "100% On-device & encrypted",
+      "description": "Every rupee you track stays on your device in an encrypted local store. Nothing is uploaded, ever."
+    },
+    {
+      "icon": "wallet",
+      "title": "Monthly income baseline",
+      "description": "Set your household's monthly inflow once and let HALK track utilization against it automatically."
+    },
+    {
+      "icon": "layout-grid",
+      "title": "Custom budget builder",
+      "description": "Allocate must-pay bills, flexible spend and savings goals with a drag-simple budget builder."
+    },
+    {
+      "icon": "piggy-bank",
+      "title": "Savings vault",
+      "description": "Ring-fence a savings goal every month and watch your safe surplus margin grow."
+    },
+    {
+      "icon": "landmark",
+      "title": "Loans & borrowings ledger",
+      "description": "Track money you owe or are owed, with due dates and automatic reminders."
+    },
+    {
+      "icon": "bar-chart-3",
+      "title": "Monthly reports & trends",
+      "description": "Understand spending patterns across months with clean, on-device analytics."
+    },
+    {
+      "icon": "fingerprint",
+      "title": "Biometric lock",
+      "description": "Face ID / fingerprint protects your household's financial data from prying eyes."
+    },
+    {
+      "icon": "refresh-ccw",
+      "title": "Month-end rollover",
+      "description": "Unused balances roll over automatically so nothing falls through the cracks."
+    }
+  ],
+  "howItWorks": [
+    {
+      "step": "01",
+      "title": "Set your monthly income",
+      "description": "Tell HALK your household's monthly inflow to establish a baseline for the month."
+    },
+    {
+      "step": "02",
+      "title": "Build your budget",
+      "description": "Allocate must-pay bills, flexible spending and savings goals in minutes."
+    },
+    {
+      "step": "03",
+      "title": "Track as you go",
+      "description": "Quick-add expenses, watch your safe surplus margin, and stay ahead of due dates."
+    },
+    {
+      "step": "04",
+      "title": "Review & roll over",
+      "description": "Get a monthly report, then roll leftover balance into next month automatically."
+    }
+  ],
+  "screens": [
+    {
+      "image": "/screens/dashboard.png",
+      "title": "Main dashboard",
+      "description": "Income vs. spend, bills, savings and liabilities at a glance."
+    },
+    {
+      "image": "/screens/budget-builder.png",
+      "title": "Budget builder",
+      "description": "Allocate every rupee across bills, flexible spend and savings."
+    },
+    {
+      "image": "/screens/quick-add.png",
+      "title": "Quick add expense",
+      "description": "Log a transaction in seconds without breaking your flow."
+    },
+    {
+      "image": "/screens/analytics.png",
+      "title": "Monthly analytics",
+      "description": "Spot trends across months with clear, private reporting."
+    },
+    {
+      "image": "/screens/loans.png",
+      "title": "Loans & borrowings",
+      "description": "Keep a clean ledger of money owed and money lent."
+    },
+    {
+      "image": "/screens/biometric.png",
+      "title": "Biometric lock",
+      "description": "Face ID and fingerprint keep your household data private."
+    }
+  ],
+  "download": {
+    "apkUrl": "/downloads/HALK.apk",
+    "apkFileName": "HALK.apk",
+    "version": "1.0.0",
+    "sizeLabel": "~95 MB",
+    "minAndroid": "Android 8.0+",
+    "note": "HALK is currently distributed as a direct APK download while it completes Play Store review. You may need to allow \"install from unknown sources\" once.",
+    "steps": [
+      "Tap the Download button below to get HALK.apk",
+      "Open the downloaded file from your notifications or Downloads folder",
+      "If prompted, allow installs from this source for your browser",
+      "Tap Install, then open HALK and set up your household"
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is my financial data uploaded anywhere?",
+      "a": "No. HALK stores everything in an encrypted local database on your device. There is no server sync, so your household data never leaves your phone."
+    },
+    {
+      "q": "Do I need to link my bank account?",
+      "a": "No. HALK doesn't require bank logins or account linking — you enter income and expenses yourself, keeping you in full control."
+    },
+    {
+      "q": "Is HALK free?",
+      "a": "Yes, HALK is free to download and use."
+    },
+    {
+      "q": "Why isn't HALK on the Play Store yet?",
+      "a": "HALK is currently in review for the Play Store. Until then, you can install it directly via the APK on this page."
+    },
+    {
+      "q": "Which devices does HALK support?",
+      "a": "HALK supports Android 8.0 and above. An iOS version is planned."
+    },
+    {
+      "q": "Can I export my data?",
+      "a": "Yes, HALK supports local export so your data is never locked in."
+    }
+  ],
+  "footer": {
+    "links": [
+      { "label": "Privacy Policy", "href": "/privacy" },
+      { "label": "Terms of Use", "href": "/terms" }
+    ],
+    "developer": "Atheequrrahman",
+    "developerUrl": "https://atheeq.mugavai.co",
+    "poweredBy": "Mugavai.co",
+    "poweredByUrl": "https://mugavai.co"
+  }
+}
