@@ -163,7 +163,7 @@
     }
   ],
   "download": {
-    "apkUrl": "/downloads/HALK.apk",
+    "apkUrl": "https://github.com/iamatheeq/HALK/releases/download/v1.0.0/HALK.apk",
     "apkFileName": "HALK.apk",
     "version": "1.0.0",
     "sizeLabel": "~95 MB",
